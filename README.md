@@ -5,14 +5,14 @@
 
 <div style="text-align: justify;">
 <a href="#" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=celestegarcia&show_icons=true&theme=midnight-purple&card_width=200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=celestegarcia&show_icons=true&theme=omni&card_width=200"/>
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestegarcia&show_icons=true&theme=midnight-purple&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celestegarcia&show_icons=true&theme=omni&layout=compact" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=celestegarcia&theme=buefy-dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=celestegarcia&theme=bear" />
 </a>
 
 </div>
