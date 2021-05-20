@@ -35,12 +35,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h1>Repos</h1>
-
-<a href="https://github.com/MiguelAngelMP10/CfdiToJson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=celestegarcia&repo=BackendControlve&theme=material-palenight" />
-</a>
-
 
 
 
